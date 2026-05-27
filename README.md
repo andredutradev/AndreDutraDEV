@@ -35,7 +35,7 @@
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/andredutradev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredutradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredutradev&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais utilizadas"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=andredutradev&theme=radical" alt="GitHub Streak"/>
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andredutradev&theme=radical" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
